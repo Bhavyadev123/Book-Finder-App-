@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cb20832-971c-4274-a3df-10cd19841110" name="Changes" comment="Created Book-finder for Alex">
-      <change beforePath="$PROJECT_DIR$/src/context.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context.js" afterDir="false" />
-    </list>
+    <list default="true" id="1cb20832-971c-4274-a3df-10cd19841110" name="Changes" comment="Created Book-finder for Alex" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757913881515</updated>
       <workItem from="1757913883807" duration="259000" />
-      <workItem from="1757914157511" duration="2760000" />
+      <workItem from="1757914157511" duration="3210000" />
     </task>
     <task id="LOCAL-00001" summary="Created Book-finder for Alex">
       <option name="closed" value="true" />
@@ -104,7 +102,23 @@
       <option name="project" value="LOCAL" />
       <updated>1757916477541</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Created Book-finder for Alex">
+      <option name="closed" value="true" />
+      <created>1757916978630</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757916978630</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Created Book-finder for Alex">
+      <option name="closed" value="true" />
+      <created>1757917244128</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1757917244128</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
